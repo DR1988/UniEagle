@@ -10385,17 +10385,17 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 <part name="R2" library="resistor" deviceset="R-EU_" device="M0805" value="1K"/>
 <part name="GND2" library="supply1" deviceset="GND" device=""/>
 <part name="D1" library="diode" deviceset="DIODE-" device="DO214AA"/>
-<part name="X1" library="con-phoenix-508" deviceset="MKDSN1,5/2-5,08" device=""/>
+<part name="X1" library="con-phoenix-508" deviceset="MKDSN1,5/2-5,08" device="" value="MKDSN"/>
 <part name="R3" library="resistor" deviceset="R-EU_" device="M0805" value="10"/>
 <part name="R4" library="resistor" deviceset="R-EU_" device="M0805" value="1K"/>
 <part name="GND4" library="supply1" deviceset="GND" device=""/>
 <part name="D2" library="diode" deviceset="DIODE-" device="DO214AA"/>
-<part name="X2" library="con-phoenix-508" deviceset="MKDSN1,5/2-5,08" device=""/>
+<part name="X2" library="con-phoenix-508" deviceset="MKDSN1,5/2-5,08" device="" value="MKDSN"/>
 <part name="R5" library="resistor" deviceset="R-EU_" device="M0805" value="10"/>
 <part name="R6" library="resistor" deviceset="R-EU_" device="M0805" value="1K"/>
 <part name="GND7" library="supply1" deviceset="GND" device=""/>
 <part name="D3" library="diode" deviceset="DIODE-" device="DO214AA"/>
-<part name="X3" library="con-phoenix-508" deviceset="MKDSN1,5/2-5,08" device=""/>
+<part name="X3" library="con-phoenix-508" deviceset="MKDSN1,5/2-5,08" device="" value="MKDSN"/>
 <part name="P+2" library="supply1" deviceset="+12V" device=""/>
 <part name="P+3" library="supply1" deviceset="+12V" device=""/>
 <part name="P+5" library="supply1" deviceset="+12V" device=""/>
@@ -10403,19 +10403,19 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 <part name="R8" library="resistor" deviceset="R-EU_" device="M0805" value="1K"/>
 <part name="GND3" library="supply1" deviceset="GND" device=""/>
 <part name="D4" library="diode" deviceset="DIODE-" device="DO214AA"/>
-<part name="X4" library="con-phoenix-508" deviceset="MKDSN1,5/2-5,08" device=""/>
+<part name="X4" library="con-phoenix-508" deviceset="MKDSN1,5/2-5,08" device="" value="MKDSN"/>
 <part name="P+7" library="supply1" deviceset="+12V" device=""/>
 <part name="R9" library="resistor" deviceset="R-EU_" device="M0805" value="10"/>
 <part name="R10" library="resistor" deviceset="R-EU_" device="M0805" value="1K"/>
 <part name="GND6" library="supply1" deviceset="GND" device=""/>
 <part name="D5" library="diode" deviceset="DIODE-" device="DO214AA"/>
-<part name="X5" library="con-phoenix-508" deviceset="MKDSN1,5/2-5,08" device=""/>
+<part name="X5" library="con-phoenix-508" deviceset="MKDSN1,5/2-5,08" device="" value="MKDSN"/>
 <part name="P+8" library="supply1" deviceset="+12V" device=""/>
 <part name="R11" library="resistor" deviceset="R-EU_" device="M0805" value="10"/>
 <part name="R12" library="resistor" deviceset="R-EU_" device="M0805" value="1K"/>
 <part name="GND8" library="supply1" deviceset="GND" device=""/>
 <part name="D6" library="diode" deviceset="DIODE-" device="DO214AA"/>
-<part name="X6" library="con-phoenix-508" deviceset="MKDSN1,5/2-5,08" device=""/>
+<part name="X6" library="con-phoenix-508" deviceset="MKDSN1,5/2-5,08" device="" value="MKDSN"/>
 <part name="P+9" library="supply1" deviceset="+12V" device=""/>
 <part name="X7" library="con-molex" deviceset="5566-4" device=""/>
 <part name="P+10" library="supply1" deviceset="+12V" device=""/>
@@ -10460,7 +10460,7 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 <part name="GND22" library="supply1" deviceset="GNDA" device=""/>
 <part name="L3" library="inductor-neosid" deviceset="SM-NE45" device=""/>
 <part name="L4" library="inductor-neosid" deviceset="SM-NE45" device=""/>
-<part name="X9" library="con-phoenix-508" deviceset="MKDSN1,5/2-5,08" device=""/>
+<part name="X9" library="con-phoenix-508" deviceset="MKDSN1,5/2-5,08" device="" value="MKDSN"/>
 <part name="C9" library="resistor" deviceset="C-EU" device="C0805" value="1uF"/>
 <part name="Q1" library="NFET_transistors" deviceset="IRLML2502" device=""/>
 <part name="Q2" library="NFET_transistors" deviceset="PF610BL" device=""/>
@@ -10482,7 +10482,7 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 <part name="SUPPLY3" library="supply2" deviceset="+5V" device="" value="+5V_1"/>
 <part name="R16" library="resistor" deviceset="R-EU_" device="M0805" value="0"/>
 <part name="R22" library="resistor" deviceset="R-EU_" device="M0805" value="0"/>
-<part name="X10" library="con-phoenix-508" deviceset="MKDSN1,5/2-5,08" device=""/>
+<part name="X10" library="con-phoenix-508" deviceset="MKDSN1,5/2-5,08" device="" value="MKDSN"/>
 <part name="GND1" library="supply1" deviceset="GNDA" device=""/>
 <part name="P+1" library="supply1" deviceset="+24V" device=""/>
 <part name="TP1" library="testpad" deviceset="PTR1" device="TP20SQ" value="PTR1TP20SQ"/>
@@ -10498,7 +10498,7 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 <part name="R26" library="resistor" deviceset="R-EU_" device="M0805" value="1K"/>
 <part name="GND24" library="supply1" deviceset="GND" device=""/>
 <part name="D7" library="diode" deviceset="DIODE-" device="DO214AA"/>
-<part name="X14" library="con-phoenix-508" deviceset="MKDSN1,5/2-5,08" device=""/>
+<part name="X14" library="con-phoenix-508" deviceset="MKDSN1,5/2-5,08" device="" value="MKDSN"/>
 <part name="P+18" library="supply1" deviceset="+12V" device=""/>
 <part name="R27" library="resistor" deviceset="R-EU_" device="M0805" value="10"/>
 <part name="R28" library="resistor" deviceset="R-EU_" device="M0805" value="1K"/>
